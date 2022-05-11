@@ -1,0 +1,58 @@
+[01:50:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:50:13] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[01:50:13] [Worker-Main-6/INFO]: Loaded 7 recipes
+[01:50:14] [Server thread/INFO]: Starting minecraft server version 1.18
+[01:50:14] [Server thread/INFO]: Loading properties
+[01:50:14] [Server thread/INFO]: This server is running Paper version git-Paper-53 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: af95df8)
+[01:50:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:50:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:50:14] [Server thread/INFO]: Default game type: ADVENTURE
+[01:50:14] [Server thread/INFO]: Generating keypair
+[01:50:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:50:14] [Server thread/INFO]: Using default channel type
+[01:50:14] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[01:50:14] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[01:50:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.8-SNAPSHOT+5996-7b4e2c2
+[01:50:15] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3915b8c3]
+[01:50:15] [Server thread/INFO]: [SquidGame] Loading SquidGame v1.0
+[01:50:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:50:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.8-SNAPSHOT+5996-7b4e2c2
+[01:50:15] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:50:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:50:16] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R1.PaperweightAdapter as the Bukkit adapter
+[01:50:16] [Server thread/INFO]: Preparing level "flat-world"
+[01:50:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:50:17] [Server thread/INFO]: Time elapsed: 246 ms
+[01:50:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:50:17] [Server thread/INFO]: Time elapsed: 59 ms
+[01:50:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:50:17] [Server thread/INFO]: Time elapsed: 48 ms
+[01:50:17] [Server thread/INFO]: [SquidGame] Enabling SquidGame v1.0
+[01:50:17] [Server thread/INFO]: [SquidGame]: Plugin is enabled!
+[01:50:17] [Server thread/INFO]: Running delayed init tasks
+[01:50:17] [Server thread/INFO]: Done (3.134s)! For help, type "help"
+[01:50:17] [Server thread/INFO]: Timings Reset
+[01:51:19] [User Authenticator #1/INFO]: UUID of player JoyJeff2 is 350d8dfc-b32c-4b51-9924-a216ac1ea804
+[01:51:19] [Server thread/INFO]: JoyJeff2 joined the game
+[01:51:19] [Server thread/INFO]: JoyJeff2[/127.0.0.1:58414] logged in with entity id 34 at ([flat-world]10.05, -60.0, -16.56)
+[01:51:23] [Server thread/INFO]: JoyJeff2 issued server command: /start_sgame
+[01:51:30] [Server thread/INFO]: JoyJeff2 died
+[01:51:43] [Server thread/INFO]: JoyJeff2 issued server command: /start_sgame
+[01:51:43] [Server thread/WARN]: JoyJeff2 moved too quickly! 3.497011527275488,-9.0,-5.744975184924089
+[01:51:49] [Server thread/INFO]: JoyJeff2 died
+[01:52:00] [Server thread/INFO]: JoyJeff2 issued server command: /start_sgame
+[01:52:00] [Server thread/WARN]: JoyJeff2 moved too quickly! 7.8882422093759565,-9.0,-2.026595268412395
+[01:52:06] [Server thread/INFO]: JoyJeff2 issued server command: /gamemode creative
+[01:52:06] [Server thread/INFO]: [JoyJeff2: Set own game mode to Creative Mode]
+[01:52:12] [Server thread/WARN]: JoyJeff2 moved too quickly! 3.124123674880381,-0.1964214670693849,-57.25999998807907
+[01:52:12] [Server thread/WARN]: JoyJeff2 moved too quickly! 3.124123674880381,-0.1964214670693849,-57.25999998807907
+[01:52:12] [Server thread/WARN]: JoyJeff2 moved too quickly! 3.124123674880381,-0.1964214670693849,-57.25999998807907
+[01:52:12] [Server thread/WARN]: JoyJeff2 moved too quickly! 3.124123674880381,-0.1964214670693849,-57.25999998807907
+[01:52:33] [Server thread/INFO]: JoyJeff2 issued server command: /gamemode creative
+[01:52:35] [Server thread/INFO]: JoyJeff2 issued server command: /start_sgame
+[01:52:35] [Server thread/WARN]: JoyJeff2 moved too quickly! 1.9351201322087803,0.0,-30.522367653840355
+[01:52:43] [Server thread/INFO]: JoyJeff2 died
+[01:52:46] [Server thread/INFO]: JoyJeff2 issued server command: /start_sgame
+[01:53:03] [Server thread/INFO]: JoyJeff2 died
+[01:53:08] [Server thread/INFO]: JoyJeff2 lost connection: Disconnected
+[01:53:08] [Server thread/INFO]: JoyJeff2 left the game
