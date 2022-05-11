@@ -1,0 +1,24 @@
+name: SquidGame
+version: 1.0
+author: [ChristianPenaflor, KyrronRodriguez]
+main: com.christianPenaflor.squidgame.SquidGameGUI
+api-version: 1.18
+commands:
+  heal:
+    description: Heals player to maxhealth.
+    usage: /<command>
+    aliases: [healing, healme, healmax]
+  feed:
+    description: Feed player to max saturation
+    usage: /<command>
+    aliases: feedme
+
+  start_sgame:
+    description: Start the round of squid game
+    usage: /<command>
+    aliases: start_squid_game
+
+  end_sgame:
+    description: End the round of squid game
+    usage: /<command>
+    aliases: end_squid_game
