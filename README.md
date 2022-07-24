@@ -1,12 +1,22 @@
 # MIneCraft_SquidGame
 Squidgame game mode implement through Minecraft Bukkit Plugin. 
-
+Map used is made on my own. 
 
 ## Contributors
 Christian Penaflor <br />
 
+
+## Commands
+/start_sgame
+
 ## Goal:
 Reach the other side. Move during Green Light. Don't Move during Red Light.
+
+## Mechanics
+Detects Movement on top of sandblocks <br />
+When a player dies, respawn them on top of glass area to spectate. <br />
+A player are added to winner list when they touch the gold block in the end of the level and survive <br />
+
 
 ## Sreenshots of the Game:
 ![image](https://user-images.githubusercontent.com/42732095/180647765-5653e2f4-b745-4c0d-a822-b3ca3c6f1115.png)
